@@ -10,16 +10,10 @@
 <img align="right" width="40%" alt="green-neon-gif" src="images/cover.gif">
 
 - 👯 I’m looking to collaborate on **Web dev projects featuring php and mysql**
-
-- 👨‍💻 All of my projects are available at [Ruby's Github](https://github.com/chauruby)
-- 
+- 👨‍💻 All of my projects are available at [Ruby's Github](https://github.com/chauruby) 
 - 🌱 I’m currently preparing for **FIGMA certification**
-- 
 - 💬 Ask me about **php, web development, apache, sql**
-
 - 📫 How to reach me **ruby55879@gmail.com**
-
-
 - ⚡ Fun fact **I am really into  Skipping.**
 
 
