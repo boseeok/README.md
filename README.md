@@ -22,7 +22,7 @@
 
 <!-- - 📄 Know about my experiences [chauruby.com.np/resume/cv](https://samipshah.com.np/resume/cv) -->
 
-- ⚡ Fun fact **I am really into playing PUBG.**
+- ⚡ Fun fact **I am really into playing Skipping.**
 
 
 # 💻 Tech Stack:
