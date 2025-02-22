@@ -30,12 +30,12 @@
 
 # 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=boseeok&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=boseeok&theme=blue-green&hide_border=false)<br/>
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=boseeok&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+<!--![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=boseeok&theme=blue-green&hide_border=false)<br/>-->
 ![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boseeok&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boseeok&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boseeok&theme=onedark&no-frame=false&no-bg=true&margin-w=4)-->
 
 <!-- 
 ### 😂 Random Dev Meme
