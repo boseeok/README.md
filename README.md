@@ -1,4 +1,4 @@
-![profile-banner](images/profile_banner.png)
+![profile-banner](images/profilebanner.jpg)
 
 <h1 align="center">Hi 👋, I'm Ruby Chaudhary</h1>
 <h3 align="center">A passionate Web Application Designer and Developer</h3>
@@ -15,6 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Ruby's Github](https://github.com/boseeok)
 
+📄 Know about my experiences chaudharyruby32.com.np
 
 - 💬 Ask me about **php, web development, apache, sql**
 
